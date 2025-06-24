@@ -26,4 +26,4 @@ This app allows users to input their height and weight to calculate their BMI an
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/YOUR_USERNAME/bmi_calculator.git
+git clone https://github.com/yousef-mahmoud-2002/bmi_calculator.git
